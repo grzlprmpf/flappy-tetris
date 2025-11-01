@@ -103,7 +103,3 @@ Ideen und Pull Requests sind willkommen! Einige Ideen für zukünftige Features:
 ---
 
 ⭐ **Gefällt dir das Spiel?** Gib dem Projekt einen Stern auf GitHub!
-
-🐛 **Bug gefunden?** Erstelle ein [Issue](https://github.com/grzlprmpf/flappy-tetris/issues)
-
-Made with 💙 and lots of ☕
